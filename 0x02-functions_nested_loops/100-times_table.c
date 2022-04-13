@@ -15,7 +15,7 @@ for (num = 0; num <= n; num++)
 {
 _putchar('0');
 
-for (mult = 1; mult <=n; mult++)
+for (mult = 1; mult <= n; mult++)
 {
 _putchar(',');
 _putchar(' ');
