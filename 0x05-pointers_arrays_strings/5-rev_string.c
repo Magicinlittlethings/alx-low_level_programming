@@ -4,15 +4,15 @@
 
 /**
  *
- *  * rev_string - reverses string s
+ * rev_string - reverses string s
  *
- *   * @s: string to be reversed
+ * @s: string to be reversed
  *
- *    *
+ * *
  *
- *     * Return: void
+ * Return: void
  *
- *      */
+ * /
 
 
 
