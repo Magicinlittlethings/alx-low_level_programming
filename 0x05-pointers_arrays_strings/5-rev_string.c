@@ -1,7 +1,4 @@
 #include "main.h"
-
-
-
 /**
  *
  * rev_string - reverses string s
@@ -12,7 +9,7 @@
  *
  * Return: void
  *
- * /
+ */
 
 
 
