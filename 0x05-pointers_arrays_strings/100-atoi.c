@@ -1,7 +1,4 @@
 #include "main.h"
-
-
-
 /**
  * _atoi - converts a string to an integer
  *
@@ -28,10 +25,11 @@ m = 1;
 while ((*(s + i) < '0' || *(s + i) > '9') && (*(s + i) != '\0'))
 
 {
-								
+
 if (*(s + i) == '-')
 
 m *= -1;
+
 i++;
 
 }
@@ -43,6 +41,7 @@ while ((*(s + j) >= '0') && (*(s + j) <= '9'))
 {
 
 n = n * 10 + m * (*(s + j) - '0');
+
 j++;
 
 }
