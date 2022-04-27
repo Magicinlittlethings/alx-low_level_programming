@@ -1,4 +1,4 @@
-nclude "main.h"
+include "main.h"
 /**
  * set_string - sets value of a ptr
  *
